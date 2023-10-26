@@ -1,0 +1,6 @@
+function getUser{
+
+
+}
+
+export getUser
